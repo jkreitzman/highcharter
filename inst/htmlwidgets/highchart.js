@@ -7,7 +7,7 @@ HTMLWidgets.widget({
   initialize: function(el, width, height) {
 
     Highcharts.AST.allowedReferences.push('data:');
-    console.log('exceptions added);
+    console.log('exceptions added');
     return {
       // TODO: add instance fields as required
     };
