@@ -6,6 +6,7 @@ HTMLWidgets.widget({
 
   initialize: function(el, width, height) {
 
+    console.log(el);
     return {
       // TODO: add instance fields as required
     };
